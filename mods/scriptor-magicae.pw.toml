@@ -1,0 +1,13 @@
+name = "Scriptor Magicae"
+filename = "scriptor-neoforge-1.4.15-sgd.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JyJgaOrk/versions/RUq2JqyR/scriptor-neoforge-1.4.15-sgd.jar"
+hash-format = "sha512"
+hash = "7ae667e55b338abffb25bdb3094c4f2bedbe52e1059d82f952b2039d24fbcfa834c90306fa88e9b759aa1c30c58ef44bca8cd2f0a81a44be1fc188d9e2ed9ca0"
+
+[update]
+[update.modrinth]
+mod-id = "JyJgaOrk"
+version = "RUq2JqyR"

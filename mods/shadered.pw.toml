@@ -1,0 +1,13 @@
+name = "Shadered"
+filename = "shadered-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NtwUFqmD/versions/Mk1fz49U/shadered-1.1.2.jar"
+hash-format = "sha512"
+hash = "be5d619bef992e9b9c4d3a7662752b8908825df22241dca4de9e771cfb48ff6f96754305f99117403041792b7b18d0e54f2a45ae2b5e670497a5742571c838bf"
+
+[update]
+[update.modrinth]
+mod-id = "NtwUFqmD"
+version = "Mk1fz49U"

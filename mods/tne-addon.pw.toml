@@ -1,0 +1,13 @@
+name = "Time and Essence"
+filename = "timeandessence-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/F8vXBZJp/versions/is2h9Eqr/timeandessence-1.0.3.jar"
+hash-format = "sha512"
+hash = "623731c75bbcdb525288a2b1e7c1299357952ff58910f96f767207015a7a352de8575f71a545c39d1fa51bd7759dedd7f85c00b2cd3d38258476094d159d20a3"
+
+[update]
+[update.modrinth]
+mod-id = "F8vXBZJp"
+version = "is2h9Eqr"

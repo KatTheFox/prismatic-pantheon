@@ -1,0 +1,13 @@
+name = "Prismatic Pantheon"
+author = "KatTheFox"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7562df06c27b34d175e4325d4917f0bf1fe1dd9de1218b2cd009345bf5535b68"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.218"
