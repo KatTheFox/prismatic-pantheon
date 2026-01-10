@@ -520,6 +520,11 @@ hash = "18cf2b63d293ba0738c1073690fbd2c62305b161f76d346a551a66a9bbf8af32"
 metafile = true
 
 [[files]]
+file = "mods/apothic-attributes.pw.toml"
+hash = "1e1f084a9466d9022785468c8cc0ae295d325fe0edae9550357acb1336f77570"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "3213c881d019cd8f952f738c10d5a950ee52ff0084750b81f656a58a4a78515d"
 metafile = true
@@ -537,6 +542,11 @@ metafile = true
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "e3ff7d98944e1114a528fbd667ae5a552420084c3346ace13bbf4be8d5f8618e"
+metafile = true
+
+[[files]]
+file = "mods/atlas-api.pw.toml"
+hash = "8c6d5170ca4f3e42a3ff45ec2891a24fef98ab136f3e427fc34af23564d9e7dc"
 metafile = true
 
 [[files]]
@@ -626,7 +636,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
 
 [[files]]
@@ -780,6 +790,11 @@ hash = "9afec629368e8687264d8534cb9d028fe70b710170654a70e28132e26e4eddd9"
 metafile = true
 
 [[files]]
+file = "mods/irons-jewelry.pw.toml"
+hash = "b7933bb3d7f4c2d874ffb62c4561f81144c5bc5690698defb868b80761efdc4b"
+metafile = true
+
+[[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
 hash = "5bf73ed2340abc1cc8b1012935ad3cbad15c6bb7e2213324626c68dbe2798475"
 metafile = true
@@ -872,6 +887,11 @@ metafile = true
 [[files]]
 file = "mods/pipez.pw.toml"
 hash = "8e1d84866fb9eb86f141cee1b9fd2f1a1850f0840aa7c4b7a2f0220eb0424417"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "201e0be56d2d9430843688b4a04dea207732b6d60f8001fb9e6396d48aea287f"
 metafile = true
 
 [[files]]
