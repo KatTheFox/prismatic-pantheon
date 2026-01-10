@@ -835,11 +835,6 @@ hash = "c2673f45c3791694d94cf5b6f6041ee463114a45f2761ce3b47a0c200b27b324"
 metafile = true
 
 [[files]]
-file = "mods/luckperms.pw.toml"
-hash = "91e6a0e562023e927ca1c56bdfd5df673609cac23528f768a83afe3674cdd0c0"
-metafile = true
-
-[[files]]
 file = "mods/magic-of-color.pw.toml"
 hash = "a7cd0dd881bd6768e55e7ededcc4b1a0b8e2637f395fc0b34ba411145fed44a8"
 metafile = true
@@ -902,11 +897,6 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
-metafile = true
-
-[[files]]
-file = "mods/playername-styler.pw.toml"
-hash = "e55281d1ba3de172e7f332102d0b4476979dff7edb553a7b1e076a2c8dd576c0"
 metafile = true
 
 [[files]]
