@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ChickenChunks.cfg"
+hash = "09adb707d1b4412dcea6eae106a0ff2be5cf9c9cbb2cfb0b0733879813120549"
+
+[[files]]
 file = "config/Hexerei-client.toml"
 hash = "6af0888e72129193eadce82a117eba3942add7cfeffe13c1eec8d67b4167677b"
 
