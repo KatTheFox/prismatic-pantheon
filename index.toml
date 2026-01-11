@@ -62,7 +62,7 @@ hash = "18894f2fb101d59d2740d60c8a630fda90edfc59700acad1ae012ceade58a5d5"
 
 [[files]]
 file = "config/akashictome-common.toml"
-hash = "ba0203c73f3d1506c48587b3f7caf578c927390c2cf0128b582d6f77f4e3977a"
+hash = "bb67cab0ea96bf26f9de0419c6dd929adfe8e814954453378977b3d3a37ef446"
 
 [[files]]
 file = "config/alchemancy-client.toml"
