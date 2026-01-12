@@ -974,6 +974,11 @@ hash = "09248b2991edcad1048358a25ca198e15d2d7cfccd4f2bfc1d1c3b0c5b8fd6ff"
 metafile = true
 
 [[files]]
+file = "mods/snad.pw.toml"
+hash = "1e8c9a317d9c076408d7e1533a362864b3f39f8998616149db646b2e9449244e"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
