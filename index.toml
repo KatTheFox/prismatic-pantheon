@@ -544,6 +544,16 @@ hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
+file = "mods/ars-additions.pw.toml"
+hash = "e2237af5a5cb738cb4f1a60962072ab9116146803a8c524e320028a0cbead234"
+metafile = true
+
+[[files]]
+file = "mods/ars-controle.pw.toml"
+hash = "14641a1a310e248977a406bf065d072d52d3ae5f11c4c68289d62eaf28a53448"
+metafile = true
+
+[[files]]
 file = "mods/ars-energistique.pw.toml"
 hash = "8ad679c28c8d8ebf85609b571b4556bfd9f605506efbaa6907a3045c965ce8b8"
 metafile = true
@@ -551,6 +561,11 @@ metafile = true
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "e3ff7d98944e1114a528fbd667ae5a552420084c3346ace13bbf4be8d5f8618e"
+metafile = true
+
+[[files]]
+file = "mods/ars-ocultas.pw.toml"
+hash = "8891199b89cefea56e20b692610b7fa0aa830f8469289b5a28f4622bc930e04a"
 metafile = true
 
 [[files]]
@@ -660,7 +675,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
@@ -931,6 +946,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
+metafile = true
+
+[[files]]
+file = "mods/occultism.pw.toml"
+hash = "69fe40a124a4764b36d8119995c367d0102cafe8a72d5b3c4b1d55235f2650ce"
 metafile = true
 
 [[files]]
