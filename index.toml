@@ -486,7 +486,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "mods/Pastel-1.2.0-test.jar"
-hash = "c3df93481dd482b586cd43340eafff27bca546f5139390f351234ff9e996eb7b"
+hash = "c635f08364e3b6d7a28bb5c11fcb33948fba415aeca2e9ec554ee539d8fe7648"
 
 [[files]]
 file = "mods/aces-spell-utils.pw.toml"
