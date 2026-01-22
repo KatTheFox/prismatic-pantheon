@@ -486,7 +486,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "mods/Pastel-1.2.0-test.jar"
-hash = "d9ac0624a292e055e0518fe0730f39f1a1eb2af4f83b2c2b4faecb36f7f75743"
+hash = "ce680366a7bf630b770342a2f78305266b082ca3fd571c9f6b27b988ca864c9c"
 
 [[files]]
 file = "mods/aces-spell-utils.pw.toml"
@@ -756,6 +756,11 @@ metafile = true
 [[files]]
 file = "mods/etched.pw.toml"
 hash = "f2be475fad96949ff8e26e8a03046b1732935b1dbd9b8824e505e7413ec08622"
+metafile = true
+
+[[files]]
+file = "mods/exclusions-lib.pw.toml"
+hash = "b755db273ddfbdafdbab2a2990188aa0e2ea88c842bd27aca5c61d42d3adfef9"
 metafile = true
 
 [[files]]
