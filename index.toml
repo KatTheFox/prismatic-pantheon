@@ -486,7 +486,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "mods/Pastel-1.2.0-test.jar"
-hash = "444fe5bf7f555c289517341c2c851fd7f69c44b730ec3fcfd3d8e8e5182fab04"
+hash = "cfd7e08fc89077d5effe0962498b6e98cf5c53b8d16858fcb1a9b6ae58d19526"
 
 [[files]]
 file = "mods/aces-spell-utils.pw.toml"
@@ -581,6 +581,11 @@ metafile = true
 [[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "93c4acd165a291c6d1e69c27b05b2747afc926b38a414712263fbc95f42da323"
+metafile = true
+
+[[files]]
+file = "mods/biolith.pw.toml"
+hash = "e28be9e32294f80bf7be78a1eca5ad0cdc73e2fa636f9f0561d746b4fd2a1fe5"
 metafile = true
 
 [[files]]
