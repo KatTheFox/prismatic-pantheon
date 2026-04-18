@@ -1092,3 +1092,18 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "6d531ca789931cf437a72fef1a868a51d8afe4db12565a525e71c154304f4e29"
 metafile = true
+
+[[files]]
+file = "mods/xycraft-machines.pw.toml"
+hash = "db70f72a657e713def1432d7ebd5ccb507596719857e77cb30a6ea889dd6e08f"
+metafile = true
+
+[[files]]
+file = "mods/xycraft-world.pw.toml"
+hash = "a488bf5b598ec8bd152ab592ac6a1520cc0cddab6bf5c0b16a8b5141d34ef951"
+metafile = true
+
+[[files]]
+file = "mods/xycraft.pw.toml"
+hash = "d5791016a751ab3b6b0150effa5beb7e149637e5ac184c7913872bef58e2e87c"
+metafile = true
