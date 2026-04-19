@@ -879,6 +879,11 @@ hash = "b13cab0f565495a145c4b4e9a4faf61b752081ee3a07e2ec139f359b7965a006"
 metafile = true
 
 [[files]]
+file = "mods/irons-lib.pw.toml"
+hash = "5fd6319cbba6abaca989daaca456c052b49f388f7789eb1657fbaf736b4009cb"
+metafile = true
+
+[[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
 hash = "46fd3a8062699383239729b7f4937fdd83177581492d3b12c8ad74dd52bfe05a"
 metafile = true
