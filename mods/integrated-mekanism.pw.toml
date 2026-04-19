@@ -1,13 +1,13 @@
 name = "Integrated Mekanism"
-filename = "integratedmekanism-1.21.1-neoforge-1.0.3-89.jar"
+filename = "integratedmekanism-1.21.1-neoforge-1.0.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/NknNmkiU/versions/jPIq7jrF/integratedmekanism-1.21.1-neoforge-1.0.3-89.jar"
+url = "https://cdn.modrinth.com/data/NknNmkiU/versions/QzBDxWC6/integratedmekanism-1.21.1-neoforge-1.0.4.jar"
 hash-format = "sha512"
-hash = "8bf734dac49999c04f210b65c84a4881cde2eec94c2d0ec77352ceb900a80c4486ecd362a80fd62752cceef10cb8bb74be6ea00ea84a7be03bf906faa583691e"
+hash = "a14d8c56cfdd766cc0d99e68f2cf2eef75cdfe2b09ef2d3b04d07a0baa60298d2d311bcc10dd0db20389d93eb2f8597e2ac88f81544cb55b2477a8cfc40bd138"
 
 [update]
 [update.modrinth]
 mod-id = "NknNmkiU"
-version = "jPIq7jrF"
+version = "QzBDxWC6"

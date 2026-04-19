@@ -1,13 +1,13 @@
 name = "Unfocused"
-filename = "unfocused-neoforge-0.2.2-1.21.1-sgd.jar"
+filename = "unfocused-neoforge-0.3.2-1.21.1-sgd.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/BvsO32QY/versions/4KQ7j8R2/unfocused-neoforge-0.2.2-1.21.1-sgd.jar"
+url = "https://cdn.modrinth.com/data/BvsO32QY/versions/ncYxOQeH/unfocused-neoforge-0.3.2-1.21.1-sgd.jar"
 hash-format = "sha512"
-hash = "a8cc0680de35b259e9d617ed00d5fff243dc8cb1120c91690892a0bf1bb6e7cccad6fd70a5d9d41bf0a8c83eee17ccacc9867288b77e14d19faf7eb44758fe09"
+hash = "0103f0ad85abd0562443cfd3d69918139dae9d2415c1583b92140b320f13d927172ee9f13fa90af284ce1fe4e9936e95b0f6d2f0c0afa4201c519454f7910aab"
 
 [update]
 [update.modrinth]
 mod-id = "BvsO32QY"
-version = "4KQ7j8R2"
+version = "ncYxOQeH"
