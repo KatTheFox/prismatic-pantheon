@@ -1074,11 +1074,6 @@ hash = "82d238f419db2d728dcaa850d3f4de11cbb3f504a02e334e33daeb95b9d93701"
 metafile = true
 
 [[files]]
-file = "mods/tne-addon.pw.toml"
-hash = "f1948f5ae8ce5ceeed9d876022a2cc4a978cde22a444781c9c29776c5d144240"
-metafile = true
-
-[[files]]
 file = "mods/torchmaster.pw.toml"
 hash = "23ea2c32834281723c63d45ffe42969172492d36309755a46bc47154c3014b3f"
 metafile = true
@@ -1112,3 +1107,7 @@ metafile = true
 file = "mods/xycraft.pw.toml"
 hash = "d5791016a751ab3b6b0150effa5beb7e149637e5ac184c7913872bef58e2e87c"
 metafile = true
+
+[[files]]
+file = "timeandessence-1.0.3.jar"
+hash = "b7349d017db2cfd00ebb001bef3fd8506eab2a59243b1417cc4275bbd7cd63ee"
