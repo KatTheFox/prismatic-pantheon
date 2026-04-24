@@ -1137,7 +1137,3 @@ metafile = true
 file = "mods/xycraft.pw.toml"
 hash = "d5791016a751ab3b6b0150effa5beb7e149637e5ac184c7913872bef58e2e87c"
 metafile = true
-
-[[files]]
-file = "timeandessence-1.0.3.jar"
-hash = "b7349d017db2cfd00ebb001bef3fd8506eab2a59243b1417cc4275bbd7cd63ee"
