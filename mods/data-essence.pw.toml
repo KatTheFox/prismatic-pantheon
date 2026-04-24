@@ -1,13 +1,13 @@
 name = "Data & Essence"
-filename = "Halcyon-v0.3.2+tides-of-phenua.jar"
+filename = "Halcyon-v0.3.4+tides-of-phenua.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/p2r7HYfw/versions/CKsYQQrY/Halcyon-v0.3.2%2Btides-of-phenua.jar"
+url = "https://cdn.modrinth.com/data/p2r7HYfw/versions/2A0NyvQl/Halcyon-v0.3.4%2Btides-of-phenua.jar"
 hash-format = "sha512"
-hash = "bd358bb000f5af4c43d94e0522de25f967dd562515605aee8b52c183f65d60bb9435ae3d45c8c04ce1363b4d876bc1f03636f45b05adccd63e9d2f7a44dd384e"
+hash = "ff33317597aaf384df93ff856baa4f0bc8625c3ef536fe328714d3a0aea8d1c7f4089d8b856680fe9c09004a6a34add40edd1f3c56f78f936eb68664441bd131"
 
 [update]
 [update.modrinth]
 mod-id = "p2r7HYfw"
-version = "CKsYQQrY"
+version = "2A0NyvQl"

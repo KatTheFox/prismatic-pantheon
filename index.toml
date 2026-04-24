@@ -575,7 +575,7 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "ffe5eaae4b9a4b2ac04bc8e6f83a694aff9ce4c844b3f83fed97928dd6c22bae"
+hash = "0bc4527d43a4f7a29a62801efe3cde624aeabf519ab0aebf26c06ae6d7fc9f0b"
 metafile = true
 
 [[files]]
@@ -670,7 +670,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "9da22561c3a5e45beb91121518a49f2e8a62bedb332574ce43a9d9b287ebc705"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
@@ -690,7 +690,7 @@ metafile = true
 
 [[files]]
 file = "mods/data-essence.pw.toml"
-hash = "ade8d509ce07817b2acf8eb6d43d3cded755df4ecdffad46e6b3b802ad35982c"
+hash = "f08e0c87939f4e2090d28a8beda4100cae6be7d93b7ee702be78c29e9ad804bc"
 metafile = true
 
 [[files]]
@@ -785,7 +785,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "a265ccd927708aed6943024431ed28612aaf16bedf279768486193d8a956e962"
+hash = "69495e979400e63b317b80a71bdd9276929d503b12fa0e73bc668c474d5dbc4c"
 metafile = true
 
 [[files]]
@@ -950,7 +950,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "bac10dc72e41ee6df7a09ebd7e16e905897d54a2d9cb9f0c3fa14f569bd6d992"
+hash = "e152bb9ae171e9f34c406bbc29dc36c8d8def9d8f913e1a1bbf82bd63d4e8da9"
 metafile = true
 
 [[files]]
@@ -980,7 +980,7 @@ metafile = true
 
 [[files]]
 file = "mods/occultism.pw.toml"
-hash = "ce34cd4a6c9f74c91c4be6f76558fa6121a5320ca533f6599781ee84ce03c55b"
+hash = "3b147d756f0f7d9d4c129399033cd8145878cee01debb7ed1197dbc5133501b2"
 metafile = true
 
 [[files]]
@@ -1045,7 +1045,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-backups.pw.toml"
-hash = "f0b8501a610b1dcb5923eb12e7aab316bd95e9c8300d0c736f9b693824804c13"
+hash = "bb3916bd466676b43fa6e5298a964c445191fa9178b956bf1692cc08249069a1"
 metafile = true
 
 [[files]]
@@ -1101,6 +1101,11 @@ metafile = true
 [[files]]
 file = "mods/torchmaster.pw.toml"
 hash = "23ea2c32834281723c63d45ffe42969172492d36309755a46bc47154c3014b3f"
+metafile = true
+
+[[files]]
+file = "mods/tot-addon.pw.toml"
+hash = "2b238378afcbd5d68ab6437ecb4da9d7c73d251af9532de90c33e6290c10ac85"
 metafile = true
 
 [[files]]
