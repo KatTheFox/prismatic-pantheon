@@ -639,6 +639,11 @@ hash = "c897cc7efe01098d76f487c17ceec9b4f747274afc7fd0e2c10fbf0e6dc30d98"
 metafile = true
 
 [[files]]
+file = "mods/common-network.pw.toml"
+hash = "cd8078f4d044e9fb548c2b792f2f1f1c04e1b80e1479446f67de3e8687dfbf67"
+metafile = true
+
+[[files]]
 file = "mods/compact-machines.pw.toml"
 hash = "dc42384932c78a1ee818af8d8535b51ebd836c6d1f13f3171d9bd83985565f04"
 metafile = true
@@ -1006,6 +1011,11 @@ metafile = true
 [[files]]
 file = "mods/polylib.pw.toml"
 hash = "74b981b04f079323585e4e7b5a7aa268edabd0b3e76f6f7cba6c4e7a7c1bb280"
+metafile = true
+
+[[files]]
+file = "mods/primal-magick.pw.toml"
+hash = "5601b14e126014bb01c650e24ef9eae1a6bfe59d23828fbfb98523dc07e75abc"
 metafile = true
 
 [[files]]
