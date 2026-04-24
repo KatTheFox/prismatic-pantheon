@@ -1105,7 +1105,7 @@ metafile = true
 
 [[files]]
 file = "mods/tot-addon.pw.toml"
-hash = "2b238378afcbd5d68ab6437ecb4da9d7c73d251af9532de90c33e6290c10ac85"
+hash = "591b5e3be515d6fc97a03e031ae90d0c74fab06cebaba23ddd6fbad104a90361"
 metafile = true
 
 [[files]]
