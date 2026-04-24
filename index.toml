@@ -1119,6 +1119,11 @@ hash = "591b5e3be515d6fc97a03e031ae90d0c74fab06cebaba23ddd6fbad104a90361"
 metafile = true
 
 [[files]]
+file = "mods/traveler-tool-belt.pw.toml"
+hash = "a8fcd083abbcda6613719a228634c257adf8fc678a0ad75776e159f719e29449"
+metafile = true
+
+[[files]]
 file = "mods/unfocused.pw.toml"
 hash = "13301864a452827b8e16038fa1df1726340996ab4c45471a7194354763e8f41d"
 metafile = true
