@@ -990,7 +990,7 @@ metafile = true
 
 [[files]]
 file = "mods/pastel-1.2.0-test.jar"
-hash = "cc3455da1bbd537e313bbd7075337cdef9d1930e4270d5db44a186ced6d15989"
+hash = "52e1f68a3992427da15406b5af720e180bb823943678286dbae2dc949995d2c9"
 
 [[files]]
 file = "mods/patchouli.pw.toml"
